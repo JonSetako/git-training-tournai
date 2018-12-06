@@ -1,0 +1,17 @@
+{
+  "name": "exe02",
+  "version": "1.0.0",
+  "description": "git and github ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "node",
+    "js"
+  ],
+  "author": "jon setako",
+  "license": "MIT"
+}
